@@ -1,3 +1,6 @@
+Install aplikasi InteGrawis disini:
+[Download InteGrawis]([https://github.com/JanSSH/InteGrawis-Apps/releases/tag/v0.1-beta](https://github.com/JanSSH/InteGrawis-Apps/releases/download/v0.1-beta/InteGrawis.apk))
+
 Cara menggunakan aplikasi:
 1. Pilih download InteGrawis.apk
 <img width="1080" height="494" alt="Screenshot_2026-08-28-08-19-50-274_com google android packageinstaller-edit" src="https://github.com/user-attachments/assets/9294a04e-b9fd-4255-9234-d121e3f64b84" />

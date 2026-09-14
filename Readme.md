@@ -8,7 +8,8 @@
 
 Versi terbaru InteGrawis dapat diunduh melalui GitHub Releases.
 
-### [Download InteGrawis.apk](https://github.com/JanSSH/InteGrawis-Apps/releases/download/v0.1-beta/InteGrawis.apk)
+### [Download InteGrawis.apk](https://github.com/JanSSH/InteGrawis-Apps/releases/download/v0.2-beta/InteGrawis.apk)
+
 
 > **Versi:** `v0.1-beta`
 > **Platform:** Android
@@ -16,7 +17,7 @@ Versi terbaru InteGrawis dapat diunduh melalui GitHub Releases.
 
 Jika link di atas tidak dapat digunakan, buka halaman release:
 
-[InteGrawis Releases](https://github.com/JanSSH/InteGrawis-Apps/releases/tag/v0.1-beta)
+[InteGrawis Releases](https://github.com/JanSSH/InteGrawis-Apps/releases)
 
 ---
 
